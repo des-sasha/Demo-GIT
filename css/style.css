@@ -1,0 +1,27 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1110px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav {
+    text-decoration: none;
+    padding: 32px;
+    color: #111;
+}
+
+.header-nav-logo {
+    width: 200px;
+    height: 100px
+}
+
+body img {
+    display: block;
+    margin: 0 auto;
+}
